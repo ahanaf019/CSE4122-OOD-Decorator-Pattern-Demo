@@ -1,0 +1,27 @@
+Displaying WebpageOne:
+==========================================
+		Webpage
+==========================================
+Hello, this is my webpage
+==========================================
+
+
+Displaying WebpageTwo:
+==========================================
+		Webpage
+==========================================
+Hello, this is my webpage
+==========================================
+
+
+
+
+User is not authorized to the website
+
+Updating access level of user
+Congratulations! You have access to the website.
+==========================================
+		Webpage
+==========================================
+Hello, this is my webpage
+==========================================

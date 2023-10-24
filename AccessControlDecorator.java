@@ -1,12 +1,13 @@
 public class AccessControlDecorator extends WebpageDecorator {
 
     private int minAccessLevel;
-    private int userAccessLevel = -1;
+    private int userAccessLevel;
 
 
     public AccessControlDecorator(Webpage webpage, int accessControl) {
         super(webpage);
         this.minAccessLevel = accessControl;
+        this.userAccessLevel = -1;
     }
     
     public int getMinAccessLevel() {
